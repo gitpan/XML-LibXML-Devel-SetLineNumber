@@ -17,5 +17,11 @@ no_index:
   directory:
     - t
     - inc
-requires: {}
-version: 0.000_00
+requires:
+  Exporter: 0
+  XML::LibXML: 1.90
+  XML::LibXML::Devel: 0
+  XSLoader: 0
+  perl: 5.008003
+  strict: 0
+version: 0.000_01

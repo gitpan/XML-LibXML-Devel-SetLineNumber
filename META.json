@@ -31,9 +31,16 @@
          }
       },
       "runtime" : {
-         "requires" : {}
+         "requires" : {
+            "Exporter" : 0,
+            "XML::LibXML" : "1.90",
+            "XML::LibXML::Devel" : 0,
+            "XSLoader" : 0,
+            "perl" : "5.008003",
+            "strict" : 0
+         }
       }
    },
    "release_status" : "testing",
-   "version" : "0.000_00"
+   "version" : "0.000_01"
 }
