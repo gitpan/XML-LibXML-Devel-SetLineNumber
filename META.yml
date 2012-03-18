@@ -1,5 +1,5 @@
 ---
-abstract: 'Perl extension for blah blah blah'
+abstract: 'set the line number for an XML::LibXML::Node'
 author:
   - 'Toby Inkster <tobyink@cpan.org>'
 build_requires:
@@ -24,4 +24,4 @@ requires:
   XSLoader: 0
   perl: 5.008003
   strict: 0
-version: 0.000_01
+version: 0.001
