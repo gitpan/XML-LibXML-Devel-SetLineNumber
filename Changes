@@ -1,15 +1,25 @@
-Revision history for Perl extension XML::LibXML::Devel::SetLineNumber.
+XML-LibXML-Devel-SetLineNumber
+==============================
 
-0.000_00  2012-03-16
+Created:      2012-03-16
+Home page:    <https://metacpan.org/release/XML-LibXML-Devel-SetLineNumber>
+Bug tracker:  <http://rt.cpan.org/Dist/Display.html?Queue=XML-LibXML-Devel-SetLineNumber>
+Maintainer:   Toby Inkster (TOBYINK) <tobyink@cpan.org>
 
-  - Let's see how CPAN Testers cope...
+0.002	2014-09-16	Two and a half year anniversary
 
-0.000_01  2012-03-16
+ [ Packaging ]
+ - use Dist::Inkt
 
-  - It might help if I added pre-requisites.
-  - I hate using EU:MM without several layers of abstraction on top.
+0.001	2012-03-18
 
-0.001  2012-03-18
+ [ Documentation ]
+ - Documentation improvements.
 
-  - Documentation improvements.
-  - Stable release.
+0.000_01	2012-03-16
+
+ [ Packaging ]
+ - I hate using EU:MM without several layers of abstraction on top.
+ - It might help if I added pre-requisites.
+
+0.000_00	2012-03-16	Initial release; let's see how CPAN Testers cope...

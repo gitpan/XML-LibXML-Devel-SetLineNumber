@@ -2,12 +2,13 @@ package XML::LibXML::Devel::SetLineNumber;
 
 use 5.008003;
 use strict;
+use warnings;
 
 use XML::LibXML;
 use XML::LibXML::Devel;
 
 our $AUTHORITY  = 'cpan:TOBYINK';
-our $VERSION    = '0.001';
+our $VERSION    = '0.002';
 
 require Exporter;
 
